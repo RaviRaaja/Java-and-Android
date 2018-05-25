@@ -31,7 +31,7 @@ class gameOfThrones implements Cloneable{
 	
 }
 
-class clone_1{
+class objectDeepCopy{
 	public static void  main(String[] args) throws CloneNotSupportedException {
 		
 		playerLife plObj1 = new playerLife(3, 100); 
