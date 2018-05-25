@@ -46,8 +46,8 @@ class clone_1{
 		gotObject2.pl.noOfLives= inf;
 		gotObject2.noOfCharacters = 40;
 		
-		System.out.println("Initial values of object plObj1 and gotObject1 :");
-		System.out.println(gotObject2.noOfCharacters + " " + gotObject2.pl.noOfLives+ " " + gotObject2.pl.strengthPerLife);
+		System.out.println("Values of object plObj2 and gotObject2 thus deep copy of the object is done so that pl.strength value is retained as 100(prev) :");
+		System.out.println(gotObject2.noOfCharacters + " " + gotObject2.pl.noOfLives + " " + gotObject2.pl.strengthPerLife);
 		
 		
 		
