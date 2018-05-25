@@ -26,7 +26,7 @@ class gameOfThrones_1 implements Cloneable{
 	
 }
 
-class shallow_copy{
+class objectShallowCopy{
 	public static void  main(String[] args) throws CloneNotSupportedException {
 		
 		playerLife_1 plObj1 = new playerLife_1(3, 100); 
